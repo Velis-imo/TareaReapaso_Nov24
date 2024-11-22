@@ -1,0 +1,4 @@
+# ignorar:
+local_config/
+*.tmp
+*.env
